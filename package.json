@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "crom",
+  "version": "1.0.0",
+  "description": "A project for the school Crom",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onelife-dev/ProjectCrom.git"
+  },
+  "author": "Gabriel N Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onelife-dev/ProjectCrom/issues"
+  },
+  "homepage": "https://github.com/onelife-dev/ProjectCrom#readme"
+}
